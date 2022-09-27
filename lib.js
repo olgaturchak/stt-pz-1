@@ -1,17 +1,16 @@
 function sum(a, b) {
-
+  return Number(a) + Number(b)
 }
 
 function subtraction(a, b) {
-
+  return Number(a) - Number(b)
 }
 
 function division(a, b) {
 
 }
 
-function multiplication() {
-
+function multiplication(a, b) {
 }
 
 function percentage() {
@@ -56,4 +55,22 @@ function hasSubString() {
 
 function isLowerCase() {
 
+}
+
+module.exports = {
+  sum,
+  subtraction,
+  division,
+  multiplication,
+  percentage,
+  getWholeNumberPart,
+  getEvenNumbers,
+  getMaxNumber,
+  getMinAndMaxNumbers,
+  arithmeticMeans,
+  getVowels,
+  cancatString,
+  splitString,
+  hasSubString,
+  isLowerCase
 }
