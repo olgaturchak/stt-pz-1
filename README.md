@@ -1,6 +1,6 @@
 # Practical lesson stt-pz-1
 
-> In this lesson we should introduction to auto testing in javascript.
+> In this lesson is introduction to auto testing in javascript.
 > Mocha Simple, flexible, fun JavaScript test framework for Node.js & The Browser
 > Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
