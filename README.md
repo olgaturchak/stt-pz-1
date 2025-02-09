@@ -29,7 +29,7 @@
 ```
 
 # Useful links
-
+* [Тестування ПЗ](https://www.youtube.com/playlist?list=PL9mn2EBC_SSySAfIxo72mzoaskkN7RNGU)
 * [Introduction to Test Driven Development in JavaScript](https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript)
 * [Автоматические тесты при помощи chai и mocha](https://learn.javascript.ru/testing)
 * [Автоматическое тестирование с помощью Mocha JS](https://ivaneroshkin.medium.com/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-mocha-js-585483e3ad74)
